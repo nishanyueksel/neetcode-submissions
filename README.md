@@ -1,7 +1,7 @@
 # NeetCode Solutions — @nishanyueksel
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
-
+https://recocards.com/board/thank-you-nishan-154658025959
 ---
 
 ## What is this?
